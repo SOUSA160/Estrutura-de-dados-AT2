@@ -1,0 +1,26 @@
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore OneDrive temporary files
+~$*
+*.tmp
+
+# Ignore compiled files
+*.exe
+*.obj
+*.o
+
+# Ignore backup files
+*.bak
+*.old
+*.orig
+
+# Ignore logs
+*.log
+
+# Ignore CSV files
+*.csv
+
+# Ignore PDF files
+*.pdf
